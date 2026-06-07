@@ -14,4 +14,4 @@ Passionate about technology, problem-solving, and helping users maintain reliabl
 
 On the pictures is possible to see how clients clean or in the most cases didn't used to clean computers, desktop machine in the most cases, which caused many problems with heating, which cause the problem with motherboard.
 
-![Problems with dust](/Role-Information-Technology-Support-Technician/images/5.jpg)
+![Problems with dust](/Role-Information-Technology-Support-Technician/images/6.jpg)
