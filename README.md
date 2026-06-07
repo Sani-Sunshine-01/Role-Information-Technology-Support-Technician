@@ -2,7 +2,7 @@
 
 I am IT Technician with over 4 years of experience in computer maintenance, troubleshooting, and operating system installation.
 
-![Resolving problems](/Information%20Technology%20Support%20Technician/images/1.jpg)
+![Resolving problems](/Role-Information-Technology-Support-Technician/images/1.jpg)
 
 Experienced in diagnosing and repairing hardware and software issues on Windows XP, Windows 98, Windows 7, and Windows 10 systems.
 
@@ -14,4 +14,4 @@ Passionate about technology, problem-solving, and helping users maintain reliabl
 
 On the pictures is possible to see how clients clean or in the most cases didn't used to clean computers, desktop machine in the most cases, which caused many problems with heating, which cause the problem with motherboard.
 
-![Problems with dust](/Information%20Technology%20Support%20Technician/images/5.jpg)
+![Problems with dust](/Role-Information-Technology-Support-Technician/images/5.jpg)
